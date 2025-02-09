@@ -1,2 +1,2 @@
-# ai
+# AI
 ai learning and examples
